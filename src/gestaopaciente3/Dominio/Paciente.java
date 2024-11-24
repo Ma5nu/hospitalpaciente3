@@ -1,4 +1,4 @@
-package gestaopaciente3;
+package gestaopaciente3.Dominio;
 
 public class Paciente {
     private int id;

@@ -1,5 +1,6 @@
-package gestaopaciente3;
+package gestaopaciente3.Controle;
 
+import gestaopaciente3.Dominio.Paciente;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
